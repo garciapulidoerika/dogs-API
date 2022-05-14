@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/garciapulidoerika/dogs-API/static/css/main.e771dc8c.css",
+    "main.js": "/garciapulidoerika/dogs-API/static/js/main.922c8e0b.js",
+    "index.html": "/garciapulidoerika/dogs-API/index.html",
+    "main.e771dc8c.css.map": "/garciapulidoerika/dogs-API/static/css/main.e771dc8c.css.map",
+    "main.922c8e0b.js.map": "/garciapulidoerika/dogs-API/static/js/main.922c8e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e771dc8c.css",
+    "static/js/main.922c8e0b.js"
+  ]
+}
